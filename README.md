@@ -1,4 +1,4 @@
 MEU NOME É KAUAN.
 ESTOU ESTUDANDO EM ALURA.
 ESTOU DESENVOLVENDO NA LINGUAGEM JAVASCRIPT.
-![](https://media1.tenor.com/m/BmQGXwLFrwMAAAAC/neymar-psg.gif)
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
